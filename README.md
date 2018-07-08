@@ -1,6 +1,6 @@
 # Elm Examples
 
-# Get the basics right
+## Get the basics right
 
 - The usual `Hello World` stuff
 - Printing multiple html elements
@@ -12,7 +12,7 @@
 - Higher Order Functions
 - Lambdas
 
-# Move on to front end stuff
+## Move on to front end stuff
 
 - Buttons
 - Forms
